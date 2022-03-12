@@ -5,5 +5,5 @@
 
 ## dependency
 - cmake
-- glib
-  - sudo apt-get install libglib2.0-dev
+- glibmm
+  - sudo apt install libglibmm-2.4-dev
