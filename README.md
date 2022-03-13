@@ -6,4 +6,4 @@
 ## dependency
 - cmake
 - glibmm
-  - sudo apt install libglibmm-2.4-dev
+  - sudo apt-get install libglibmm-2.4-dev
